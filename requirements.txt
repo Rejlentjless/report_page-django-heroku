@@ -2,5 +2,5 @@ django
 gunicorn
 psycopg2
 django-heroku
-whitenois
+whitenoise
 dj-database-url
