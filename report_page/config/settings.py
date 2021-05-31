@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # "account.apps.AccountConfig",
     "mainapp.apps.MainappConfig",
     "account.apps.AccountConfig",
 ]
